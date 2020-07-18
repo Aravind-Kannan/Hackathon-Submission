@@ -1,0 +1,22 @@
+Developer GSBSP-BR-15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Addressal of Problem Statements : - 
+
+a. Navigation Bar: Yes/Created consists of Home, About, Menu, Specials, Events, Gallery, Chefs, Contact and Book a Table 
+b. Home Page/Landing Page: Work in Progress
+c. About Section: Completed navigatable using About button of Nav bar
+d. Footer: Completed - Name not mentioned complying with rules of Hackathon
+
+Inclusion of 30 dishes in menu card + 3 dishes in specialities: In-progress
+
+Menu card: Work in progress
+Contact us: Completed
+Company logo: Food Factory from Canva
+Business Location: Used a Google API
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Please make note all filler text will be removed in the upcoming progress report and code. 	FIND CODE IN MY REPOSITORY :  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Credits to:
+Multiple Images: Canva
+Template Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
